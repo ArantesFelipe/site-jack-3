@@ -1,0 +1,58 @@
+@charset "UTF-8";
+
+
+
+:root {
+    --font-titulo:'Libre Baskerville';
+    --font-sub-titulo:'Raleway';
+    --font-corpo:'Inter';
+    
+    --cor1: black;
+    --cor2: #AB9C65;
+    --cor3: #BFA07A;
+    --cor4: #736049;
+    --cor5: #403728;
+
+}
+
+*{
+    padding: 0px;
+    margin: 0px;
+    
+    
+
+
+    
+
+}
+
+header{
+    background-color: black;
+}
+ #areas-de-atucao{
+    background-image: url(imagens/home-areas-de-atuacao.png);
+    background-color: #cccccc;
+ }
+
+ #oescritorio{
+  
+    background-color:var(--cor2);
+    
+    padding-top: 100px;
+    padding-bottom: 50px;
+    padding-left: 5%;
+    padding-right: 5%;
+    
+    
+   
+   }
+
+ #assesoriajuridica{
+    background-color:var(--cor1);
+    
+    padding-top: 100px;
+    padding-bottom: 50px;
+    padding-left: 5%;
+    padding-right: 5%;
+    
+  }
