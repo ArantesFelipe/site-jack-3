@@ -20,6 +20,7 @@
     margin: 0px;
     
     
+    
 
 
     
@@ -29,9 +30,46 @@
 header{
     background-color: black;
 }
- #areas-de-atucao{
-    background-image: url(imagens/home-areas-de-atuacao.png);
+
+body{
+    overflow-x: hidden;}
+
+
+
+    nav{
+    
+    text-align: center;
+    font-family: var(--font-titulo);
+    color: white;
+    padding-top: 20px;
+    
+    
+    
+    
+
+}
+nav a:hover{
+    text-decoration: none;
+    background-color:#6aacd4 ;
+    border-radius: 5%;
+    
+
+
+}
+
+
+
+#imagemhome1{
+    size: 50%;
+
+}
+
+#areas-de-atucao{
+    background-image: url(imagens/home-areas-de-atuacao.png) ;
     background-color: #cccccc;
+    background-repeat: no-repeat;
+  
+    
  }
 
  #oescritorio{
@@ -56,3 +94,21 @@ header{
     padding-right: 5%;
     
   }
+
+  #profissional{
+    background-color: black;
+
+  }
+
+ #pqcontratar{background-image:url(imagens/home-areas-de-atuacao.png);
+
+}
+ #caixaspqfm{
+    color:var(--cor2);
+    border: 2px solid var(--cor2) ;
+    margin: 15px;
+    font-family: var(--font-corpo);
+}
+#contatos{
+    background-color: black;
+}
