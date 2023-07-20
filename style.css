@@ -19,12 +19,10 @@
     padding: 0px;
     margin: 0px;
     
-    
-    
-
 
     
-
+    
+    
 }
 
 header{
@@ -60,8 +58,13 @@ nav a:hover{
 
 
 #imagemhome1{
-    size: 50%;
-
+    background-image: url(imagens/home-pag1.png);
+   
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
 }
 
 #areas-de-atucao{
