@@ -35,6 +35,7 @@ nav{
    background-color: black;
    font-family:var(--font2);
    font-weight: bold;
+   padding-top: 10px;
   
    
 }
@@ -50,6 +51,17 @@ nav{
     margin-right: 450px;
 }
 
+
+#imagemhome1{
+    background-image: url(imagens/hometeste2.png);
+    background-color: #cccccc;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+
+}
 
 
     
