@@ -85,7 +85,30 @@ nav{
 
     
 }
-
+#oescritorio{
+  
+    background-color:var(--cor2);
+    
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 5%;
+    padding-right: 5%;
+    
+    
+   
+   
+   
+  
+  }
+#assesoriajuridica{
+    background-color:black;
+    
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 5%;
+    padding-right: 5%;
+    
+  }
     
 
 
