@@ -56,18 +56,19 @@ nav{
 
 
 #imagemlogo{
-    margin-right: 300px;
+    margin-right: 600px;
 }
 
 
 #imagemhome1{
-    background-image: url(imagens/hometeste2.png);
+    background-image: url(imagens/hometeste3.png);
     background-color: #cccccc;
     height: 500px;
-    background-position: left, center;
+    background-position: right, center;
     background-repeat: no-repeat;
     background-size: cover;
     position: static;
+    ;
    
 
 }
@@ -77,10 +78,11 @@ nav{
     color: var(--cor2);
     font-family: var(--font4);
     font-size: 130%;
-    padding-left: 80%;
-    padding-right: 10px;
-    padding-top: 20%;
+    padding-left: 60%;
+    padding-right: 30px;
+    padding-top: 25%;
     text-align: right;
+    
     
 
     
