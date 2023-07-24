@@ -56,18 +56,19 @@ nav{
 
 
 #imagemlogo{
-    margin-right: 600px;
+    margin-right: 400px;
 }
 
 
 #imagemhome1{
     background-image: url(imagens/hometeste3.png);
     background-color: #cccccc;
-    height: 500px;
-    background-position: right, center;
+    height: 600px;px;
+    background-position:center ;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100%;
     position: static;
+   
     ;
    
 
