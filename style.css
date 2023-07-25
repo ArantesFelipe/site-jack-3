@@ -62,8 +62,8 @@ nav{
 
 #imagemhome1{
     background-image: url(imagens/hometeste3.png);
-    background-color: #cccccc;
-    height: 600px;px;
+    
+    height: 100vh;
     background-position:center ;
     background-repeat: no-repeat;
     background-size: 100%;
@@ -112,6 +112,71 @@ nav{
     padding-right: 5%;
     
   }
+
+  #areasdeatuacao{
+    background-image: url(imagens/home-areas-de-atuacao.png);
+    height: 100vh;
+   
+    
+    background-position:top center ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    position: static;
+    
+    
+  }
+
+  #textoareadeatucao{
+    background-color: var(--cor2);
+    margin: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+
+  #profissional{
+    background-image: url(imagens/profissional.png);
+    height: 700px;
+    background-color: black;
+   
+    
+    background-position:top center ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    position: static;
+
+
+  }
+
+  #pqferreiraemassoni{
+    background-image:url(imagens/home-areas-de-atuacao.png) ;
+    height: 500px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 5%;
+    padding-right: 5%;
+    text-align: center;
+    position: static;
+   
     
 
+}
+#caixaspqfm{
+    border: 2px solid var(--cor2) ;
+    margin: 15px;
+    font-family: var(--font-corpo);
+    color: var(--cor2);
+}
+
+
+#contatenos{
+    background-image: url(imagens/contatos.png);
+    height: 700px;
+    background-color: black;
+   
+    
+    background-position:center ;
+    background-repeat: no-repeat;
+    
+    
+}
 
